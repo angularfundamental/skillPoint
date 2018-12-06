@@ -1,2 +1,2 @@
-# skillPoint
+# skillpoint
 First Step towards web
